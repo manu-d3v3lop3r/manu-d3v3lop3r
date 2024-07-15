@@ -13,7 +13,7 @@
 - 🙍‍♂️ I am a multiplatform application developer passionate about technology and constantly learning to improve.
 - 🤝 I enjoy collaborating with other developers to learn and grow together.
 - 🧑‍💻 Eager to contribute to open-source projects to enhance skills and knowledge.
-- 💻 I am currently working on the development of an app for the internal digitalization of small and medium-sized companies.
+- 💻 I am currently working on the development of an app for the internal digitalization of small and medium-sized companies for free and open source.
 
 ---
 
