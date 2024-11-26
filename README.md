@@ -1,10 +1,6 @@
 <div align="center">
   <h1>Hola terricola digital, soy Manu 🖖</h1>
   <img src="Banner_Github.png" width="100%"/>
-  <br/>
-  <!--<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>-->
 </div>
 
 <br>
@@ -80,9 +76,3 @@ En mi Github podrás explorar proyectos propios, colaboraciones con otros terrí
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </div>
-
----
-
-![Your github stats](https://github-readme-stats.vercel.app/api?username=manu-d3v3lop3r&show_icons=true&theme=radical)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manu-d3v3lop3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
