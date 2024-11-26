@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi human, I am Manu 🖖</h1>
-  <img src="BannerGithub.png" width="100%"/>
+  <h1>Hola humano, soy Manu 🖖</h1>
+  <img src="Banner_Github.png" width="100%"/>
   <br/>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
