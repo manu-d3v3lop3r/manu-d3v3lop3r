@@ -124,54 +124,6 @@ Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • Android Studio • 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manu-d3v3lop3r&theme=radical&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manu-d3v3lop3r&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Streak Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manu-d3v3lop3r&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Lenguajes más usados
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-d3v3lop3r&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📊 Actividad en GitHub
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manu-d3v3lop3r&theme=tokyo-night"/>
-</p>
-
----
-
-# 👀 Visitas al perfil
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=manu-d3v3lop3r&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 # 🌍 Conecta conmigo
 
 <p align="center">
