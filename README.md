@@ -1,11 +1,13 @@
-<h1 align="center">👋 Hola, soy Full Stack Developer</h1>
+<p align="center">
+  <img src="Banner_Github.png" alt="Banner" width="100%" />
+</p>
 
 <h3 align="center">
 Software Developer • Web Development • Automation • AI & Prompt Engineering
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+JavaScript+Developer;Web+and+Mobile+Development;Automation+and+Process+Optimization;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+JavaScript+Developer;Web+and+Mobile+Development;Automatización+y+Optimización+de+Procesos;Siempre+Aprediendo+Nuevas+Tecnologías"/>
 </p>
 
 ---
