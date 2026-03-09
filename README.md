@@ -1,78 +1,196 @@
-<div align="center">
-  <h1>Hola terricola digital, soy Manu 🖖</h1>
-  <img src="Banner_Github.png" width="100%"/>
-</div>
+<h1 align="center">👋 Hola, soy Full Stack Developer</h1>
 
-<br>
+<h3 align="center">
+Software Developer • Web Development • Automation • AI & Prompt Engineering
+</h3>
 
-Bienvenido a mi rincón en el vasto universo digital. Soy desarrollador de software apasionado por descubrir nuevas herramienta, aprender constantemente y colaborar con mentes curiosas de todo el mundo para crear soluciones informáticas innovadoras que marquen la diferencia.
-
-En mi Github podrás explorar proyectos propios, colaboraciones con otros terrícolas digitales y hasta ejercicios que he hecho mientrtas me adentraba en el fascinante mundo de nuevas herramientas y lenguajes de programación. !Un verdadero laboratorio de ideas y código¡
-
----
-
-## 🤖 Acerca de mí
-- 🎓 Soy técnico superior en desarrollo de aplicaciones multiplataformas.
-- 🌟 Me he especializado en el desarrollo de aplicaciones con lenguajes de programación como Java o Kotlin, apoyandome en IntelliJ IDEA como mi herramienta principal para optimizar el código de manera eficiente.
-- 🤝 Siempre estoy abierto a colaborar en proyectos de código abierto y explorar nuevas ideas que desafíen los límites de la innovación.
-- 💻 En este momento, estoy inmerso en el desarrollo de aplicaciones con Java, buscando profundizar mis conocimientos y alcanzar un nivel de experiencia avanzada en este lenguaje de programación.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+JavaScript+Developer;Web+and+Mobile+Development;Automation+and+Process+Optimization;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
-## 🛠️💻 Tecnologías y Herramientas
+# 🚀 Sobre mí
 
-### 📎 Lenguajes de programación
+💻 Desarrollador de software enfocado en **Full Stack Development**, con formación en **Desarrollo de Aplicaciones Multiplataforma**.
 
-#### 🌐 Frontend & Web
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
+Me apasiona crear **soluciones tecnológicas eficientes**, automatizar procesos y desarrollar aplicaciones web escalables combinando **frontend, backend y bases de datos**.
 
-#### ⚙️ Backend
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
+🎯 Áreas de enfoque:
 
-#### 📱 Dispositivos móviles
-<div>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
-</div>
+- Desarrollo Full Stack
+- Automatización de procesos
+- Arquitectura web
+- Desarrollo de APIs
+- Mejora continua y aprendizaje constante
 
-### 🛠️ Herramientas & Frameworks
-#### 💻 Desarrollo Web
-<div>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-</div>
+---
 
-#### 🗄️ Administración de base de datos
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-</div>
+# 🧠 Tech Stack
 
-#### 🖥️ Software de desarrollo
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-</div>
+## Lenguajes
 
-#### ☁️🚀 Cloud & Deployment
-<div>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,python,php,html,css"/>
+</p>
 
-#### 🔧 Otros
-<div>
-  <img src="https://img.shields.io/badge/AppScript-34A853?style=for-the-badge&logo=google-apps-script&logoColor=white" alt="AppScript">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</div>
+<p align="center">
+Java • Kotlin • JavaScript • Python • PHP • HTML5 • CSS3 • SQL • XML • PowerShell
+</p>
+
+---
+
+## Frameworks y Librerías
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vue,angular,bootstrap"/>
+</p>
+
+<p align="center">
+React.js • Vue.js • Angular • Bootstrap • jQuery • Materialize • SweetAlert2 • DataTables
+</p>
+
+---
+
+## Bases de Datos
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+</p>
+
+<p align="center">
+MySQL • SQL • Firebase • REST APIs • Google Apps Script
+</p>
+
+---
+
+## Herramientas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,androidstudio,postman"/>
+</p>
+
+<p align="center">
+Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • Android Studio • Postman • VirtualBox
+</p>
+
+---
+
+# ⚙️ Tecnologías y conocimientos
+
+- REST APIs  
+- AJAX  
+- JSON  
+- Responsive Design  
+- Single Page Applications (SPA)  
+- UI / UX  
+- SEO técnico  
+- Automatización de procesos  
+- Google Apps Script  
+
+---
+
+# 🧩 CMS y plataformas
+
+- WordPress  
+- Joomla  
+- Magnolia CMS  
+- SharePoint  
+
+---
+
+# 📚 Certificaciones
+
+- Python Essentials 1 & 2  
+- JavaScript Essentials  
+- Java y Programación Orientada a Objetos  
+- Prompt Engineering  
+- IA Responsable & Prompt Engineering  
+- Excel Intermedio & Avanzado  
+- Introducción al Desarrollo Web  
+- Introducción a Apps Móviles  
+- Ciberseguridad en Teletrabajo  
+
+---
+
+# ⚙️ Metodologías
+
+- Scrum  
+- MVC  
+- Testing  
+- Debugging  
+- Documentación técnica  
+- Trabajo en equipo  
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manu-d3v3lop3r&theme=radical&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manu-d3v3lop3r&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manu-d3v3lop3r&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Lenguajes más usados
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-d3v3lop3r&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Actividad en GitHub
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manu-d3v3lop3r&theme=tokyo-night"/>
+</p>
+
+---
+
+# 👀 Visitas al perfil
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=manu-d3v3lop3r&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🌍 Conecta conmigo
+
+<p align="center">
+<a href="TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+# 💡 Filosofía
+
+Clean Code  
+Aprendizaje continuo  
+Automatización inteligente  
+Tecnología para resolver problemas reales  
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi perfil
+</p>
