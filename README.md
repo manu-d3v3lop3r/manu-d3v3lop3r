@@ -126,16 +126,6 @@ Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • Android Studio • 
 
 ---
 
-# 🌍 Conecta conmigo
-
-<p align="center">
-<a href="www.linkedin.com/in/manuel-jiménez-fernández>
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
-
----
-
 # 💡 Filosofía
 
 Clean Code  
