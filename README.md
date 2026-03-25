@@ -7,7 +7,7 @@ Software Developer • Web Development • Automation • AI & Prompt Engineerin
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+Junior;Desarrollador+Java+%7C+Kotlin+%7C+JavaScript;Desarrollao+Web+y+Móvil;Automatización+y+Optimización+de+Procesos;Siempre+Aprediendo+Nuevas+Tecnologías"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+Junior;Desarrollador+Java+%7C+Kotlin+%7C+JavaScript;Desarrollo+Web+y+Móvil;Automatización+y+Optimización+de+Procesos;Siempre+Aprediendo+Nuevas+Tecnologías"/>
 </p>
 
 ---
