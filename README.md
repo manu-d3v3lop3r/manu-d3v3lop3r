@@ -7,24 +7,18 @@ Software Developer • Web Development • Automation • AI & Prompt Engineerin
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Kotlin+%7C+JavaScript+Developer;Web+and+Mobile+Development;Automatización+y+Optimización+de+Procesos;Siempre+Aprediendo+Nuevas+Tecnologías"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+Junior;Desarrollador+Java+%7C+Kotlin+%7C+JavaScript;Desarrollao+Web+y+Móvil;Automatización+y+Optimización+de+Procesos;Siempre+Aprediendo+Nuevas+Tecnologías"/>
 </p>
 
 ---
 
-# 🚀 Sobre mí
+# 👨‍💻 Sobre mí
 
-💻 Desarrollador de software enfocado en **Full Stack Development**, con formación en **Desarrollo de Aplicaciones Multiplataforma**.
+💻 **Java Backend Developer Junior** con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y experiencia en desarrollo web, aplicaciones Android y automatización de procesos.
 
-Me apasiona crear **soluciones tecnológicas eficientes**, automatizar procesos y desarrollar aplicaciones web escalables combinando **frontend, backend y bases de datos**.
+Me especializo en la construcción de **APIs, sistemas backend y soluciones escalables**, participando en proyectos reales como plataformas de **digitalización documental** y desarrollo de aplicaciones completas.
 
-🎯 Áreas de enfoque:
-
-- Desarrollo Full Stack
-- Automatización de procesos
-- Arquitectura web
-- Desarrollo de APIs
-- Mejora continua y aprendizaje constante
+🚀 Interesado en seguir creciendo como **Backend Developer en Java**, aplicando buenas prácticas, testing y arquitectura de software.
 
 ---
 
