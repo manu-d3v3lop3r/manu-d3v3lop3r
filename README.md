@@ -1,6 +1,6 @@
 <!-- ═══════════════ CABECERA ═══════════════ -->
 <p align="center">
-  <img src="header.svg" alt="Manuel Jiménez · Full Stack Developer · Java & Spring Boot" width="100%"/>
+  <img src="header-v2.svg" alt="Manuel Jiménez · Full Stack Developer · Java & Spring Boot" width="100%"/>
 </p>
 
 <p align="center">
@@ -21,16 +21,16 @@
 
 Primero entiendo el problema y después construyo la solución.
 
-He trabajado en **dos organismos públicos**, donde he digitalizado documentación en papel, automatizado comunicaciones internas y migrado un portal institucional con mucho contenido. Busco un equipo en el que aportar desde el primer día y seguir creciendo en **backend, testing y arquitectura de software**.
+Me centro en el **backend con Java y Spring Boot**: APIs REST seguras, bien documentadas y cubiertas por tests. También trabajo el frontend y el desarrollo Android cuando el proyecto lo pide.
 
 - 🎓 **Máster en Full Stack Development** · **CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🔭 Ahora mismo: profundizando en **Java 21, Spring Boot y testing**
 
 <!-- ═══════════════ CIFRAS ═══════════════ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/+1_año-experiencia_profesional-2563EB?style=for-the-badge" alt="+1 año de experiencia"/>
   <img src="https://img.shields.io/badge/56_tests-84%25_cobertura-22c55e?style=for-the-badge" alt="56 tests, 84% cobertura"/>
-  <img src="https://img.shields.io/badge/1_app-de_0_a_producción-f59e0b?style=for-the-badge" alt="1 app en producción"/>
+  <img src="https://img.shields.io/badge/JWT-roles_y_seguridad-7c3aed?style=for-the-badge" alt="JWT y roles"/>
+  <img src="https://img.shields.io/badge/OpenAPI-API_documentada-f59e0b?style=for-the-badge" alt="OpenAPI"/>
 </p>
 
 <br/>
@@ -40,7 +40,7 @@ He trabajado en **dos organismos públicos**, donde he digitalizado documentaci�
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏦 API REST · Sistema bancario
 Gestión de clientes, cuentas, tarjetas y transacciones.
@@ -55,24 +55,7 @@ Gestión de clientes, cuentas, tarjetas y transacciones.
 <a href="https://manu-d3v3lop3r.github.io/es/proyectos/api-bancaria/"><img src="https://img.shields.io/badge/Ficha_del_proyecto-2563EB?style=flat-square"/></a>
 
 </td>
-<td width="50%" valign="top">
-
-### 📂 Gestión documental
-App web para digitalizar documentación administrativa y legal de un organismo público.
-
-✅ Desarrollada **de 0 a producción**<br/>
-✅ Subida y consulta de documentos escaneados<br/>
-✅ Proyecto **profesional** en uso real
-
-<img src="https://skillicons.dev/icons?i=php,mysql,js,jquery,bootstrap" height="32"/>
-
-<img src="https://img.shields.io/badge/Código_privado-6b7280?style=flat-square&logo=github&logoColor=white"/>
-<a href="https://manu-d3v3lop3r.github.io/es/proyectos/gestion-documental/"><img src="https://img.shields.io/badge/Ficha_del_proyecto-2563EB?style=flat-square"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏠 Domus
 App Android de finanzas personales y del hogar.
@@ -82,10 +65,10 @@ App Android de finanzas personales y del hogar.
 <a href="https://github.com/manu-d3v3lop3r/domus"><img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🌐 Portfolio personal
-Web bilingüe (ES / EN) con proyectos, experiencia y CV.
+Web bilingüe (ES / EN) con mis proyectos y stack.
 
 <img src="https://skillicons.dev/icons?i=astro,html,css" height="32"/>
 
@@ -122,49 +105,23 @@ Web bilingüe (ES / EN) con proyectos, experiencia y CV.
 <td align="center"><b>Herramientas</b></td>
 <td><img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode,powershell" /></td>
 </tr>
-<tr>
-<td align="center"><b>CMS</b></td>
-<td><img src="https://skillicons.dev/icons?i=wordpress" /></td>
-</tr>
 </table>
 
 <p align="center">
-  <sub><b>También:</b> Spring Security · JWT · JPA / Hibernate · MapStruct · OpenAPI · JUnit 5 · Mockito · MockMvc · H2 · Power Automate · Google Apps Script · Magnolia CMS · SharePoint</sub>
+  <sub><b>También:</b> Spring Security · JWT · JPA / Hibernate · MapStruct · OpenAPI · JUnit 5 · Mockito · MockMvc · H2 · Google Apps Script</sub>
 </p>
 
 <br/>
-
-<!-- ═══════════════ EXPERIENCIA ═══════════════ -->
-## 💼 Experiencia
-
-<table>
-<tr>
-<td width="110" align="center"><img src="https://img.shields.io/badge/2024–2025-2563EB?style=flat-square"/></td>
-<td>
-<b>Técnico en Operaciones de Sistemas Informáticos</b> · <i>UNED Madrid</i><br/>
-<sub>Automatización de procesos con Power Automate · Migración del portal y la intranet a Magnolia CMS · Documentación técnica</sub>
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/2024-64748b?style=flat-square"/></td>
-<td>
-<b>Desarrollador de Aplicaciones Web</b> · <i>ESMASA (prácticas)</i><br/>
-<sub>Desarrollo de la aplicación de gestión documental, de cero a producción</sub>
-</td>
-</tr>
-</table>
 
 <details>
 <summary><b>📜 Certificaciones</b></summary>
 <br/>
 
-| Programación | Otros |
-|---|---|
-| Python Essentials 1 y 2 | Prompt Engineering |
-| JavaScript Essentials | IA Responsable |
-| Java y POO | Excel Intermedio y Avanzado |
-| Introducción al Desarrollo Web | Ciberseguridad en Teletrabajo |
-| Introducción a Apps Móviles | |
+- Java y Programación Orientada a Objetos
+- Python Essentials 1 y 2
+- JavaScript Essentials
+- Introducción al Desarrollo Web
+- Introducción a Apps Móviles
 
 </details>
 
