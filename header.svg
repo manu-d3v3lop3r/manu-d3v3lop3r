@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="60%" stop-color="#0f1f45"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.5">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'DejaVu Sans Mono', monospace; }
+      .fade { opacity: 0; animation: in 0.9s ease-out forwards; }
+      .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.35s; } .d3 { animation-delay: 0.6s; } .d4 { animation-delay: 0.85s; }
+      @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+
+  <!-- Texto principal -->
+  <g class="fade d1">
+    <text x="70" y="78" class="mono" font-size="18" fill="#60a5fa">&lt;hola mundo /&gt;</text>
+  </g>
+  <g class="fade d2">
+    <text x="68" y="146" class="sans" font-size="60" font-weight="700" fill="#ffffff">Manuel Jiménez</text>
+  </g>
+  <g class="fade d3">
+    <text x="70" y="192" class="sans" font-size="26" font-weight="500" fill="#cbd5e1">Full Stack Developer · Java &amp; Spring Boot</text>
+  </g>
+  <g class="fade d4">
+    <rect x="70" y="222" width="6" height="26" rx="3" fill="#3b82f6"/>
+    <text x="88" y="242" class="sans" font-size="19" fill="#94a3b8">Convierto procesos reales en software que funciona</text>
+  </g>
+
+  <!-- Tarjeta de código decorativa -->
+  <g class="fade d3" transform="translate(820 62)">
+    <rect width="320" height="176" rx="12" fill="#0b1120" fill-opacity="0.75" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="22" cy="22" r="6" fill="#ef4444"/>
+    <circle cx="42" cy="22" r="6" fill="#f59e0b"/>
+    <circle cx="62" cy="22" r="6" fill="#22c55e"/>
+    <g class="mono" font-size="15" xml:space="preserve">
+      <text x="22" y="66"><tspan fill="#c084fc">@RestController</tspan></text>
+      <text x="22" y="92"><tspan fill="#c084fc">class</tspan><tspan fill="#e2e8f0"> Manuel {</tspan></text>
+      <text x="40" y="118"><tspan fill="#60a5fa">foco</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"backend"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+      <text x="40" y="144"><tspan fill="#60a5fa">disponible</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#fbbf24">true</tspan><tspan fill="#e2e8f0">;</tspan></text>
+      <text x="22" y="166"><tspan fill="#e2e8f0">}</tspan></text>
+    </g>
+  </g>
+</svg>
