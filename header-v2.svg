@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="60%" stop-color="#0f1f45"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.5">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Fondo -->
+  <rect x="0" y="0" width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="300" rx="16" fill="url(#glow)"/>
+
+  <!-- Texto principal (zona izquierda: x 70–760) -->
+  <text x="70" y="78" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="18" fill="#60a5fa">&lt;hola mundo /&gt;</text>
+  <text x="68" y="146" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Manuel Jiménez</text>
+  <text x="70" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="500" fill="#cbd5e1">Full Stack Developer · Java &amp; Spring Boot</text>
+  <rect x="70" y="222" width="6" height="26" rx="3" fill="#3b82f6"/>
+  <text x="88" y="242" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#94a3b8">Convierto ideas en software que funciona</text>
+
+  <!-- Tarjeta de código (zona derecha: x 830–1150), coordenadas absolutas -->
+  <rect x="830" y="62" width="320" height="176" rx="12" fill="#0b1120" fill-opacity="0.75" stroke="#ffffff" stroke-opacity="0.12"/>
+  <circle cx="852" cy="84" r="6" fill="#ef4444"/>
+  <circle cx="872" cy="84" r="6" fill="#f59e0b"/>
+  <circle cx="892" cy="84" r="6" fill="#22c55e"/>
+  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="15" xml:space="preserve">
+    <text x="852" y="128" fill="#c084fc">@RestController</text>
+    <text x="852" y="154"><tspan fill="#c084fc">class</tspan><tspan fill="#e2e8f0"> Manuel {</tspan></text>
+    <text x="870" y="180"><tspan fill="#60a5fa">foco</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#86efac">"backend"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="870" y="206"><tspan fill="#60a5fa">aprendiendo</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#fbbf24">true</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="852" y="228" fill="#e2e8f0">}</text>
+  </g>
+</svg>
